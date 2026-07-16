@@ -18,7 +18,7 @@ st.markdown("Memantau paket pekerjaan terbaru dari berbagai portal SPSE di Jawa 
 SPSE_SOURCES = {
     "Kab. Bojonegoro": "https://spse.inaproc.id/bojonegorokab/lelang",
     "Kab. Tuban": "https://spse.inaproc.id/tubankab/lelang",
-    "Kob. Blora": "https://spse.inaproc.id/blorakab/lelang
+    "Kob. Blora": "https://spse.inaproc.id/blorakab/lelang",
 }
 
 # 3. Fungsi untuk Mengambil Data dari SPSE
